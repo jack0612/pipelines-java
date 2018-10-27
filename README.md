@@ -1,4 +1,8 @@
 [![Build Status](https://dev.azure.com/jacklu0612/Pipeline20181028/_apis/build/status/jack0612.pipelines-java)](https://dev.azure.com/jacklu0612/Pipeline20181028/_build/latest?definitionId=1)
+
+
+------------------------the 2nd change
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
